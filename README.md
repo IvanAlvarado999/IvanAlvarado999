@@ -22,6 +22,7 @@ Soy estudiante de Computación e Ingeniería de Sistemas en la ESPOL. Me apasion
 | Proyecto | Qué resuelve | Tecnologías | Enlaces |
 | :--- | :--- | :--- | :--- |
 | **EcoRuta** | Reto de maquetación responsiva: réplica exacta de un diseño de sitio turístico implementando dos versiones independientes, una utilizando exclusivamente CSS Flexbox y otra CSS Grid. | HTML5, CSS3 (Flexbox & Grid) | [Repositorio](https://github.com/IvanAlvarado999/ecoruta) |
+| **Landing Page Comunitaria** | Documenta y compara juegos tradicionales con el entretenimiento actual en Guayaquil mediante una página interactiva, adaptando la plantilla Massively. | HTML5, CSS3 (Sass), JavaScript | [Repositorio](https://github.com/IvanAlvarado999/Proyecto-02-Sprint1-) |
 
 ## 📬 Contacto
 
