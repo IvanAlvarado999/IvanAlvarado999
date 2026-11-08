@@ -17,6 +17,12 @@ Soy estudiante de Computación e Ingeniería de Sistemas en la ESPOL. Me apasion
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 
+## 🚀 Proyectos destacados
+
+| Proyecto | Qué resuelve | Tecnologías | Enlaces |
+| :--- | :--- | :--- | :--- |
+| **EcoRuta** | Reto de maquetación responsiva: réplica exacta de un diseño de sitio turístico implementando dos versiones independientes, una utilizando exclusivamente CSS Flexbox y otra CSS Grid. | HTML5, CSS3 (Flexbox & Grid) | [Repositorio](https://github.com/IvanAlvarado999/ecoruta) |
+
 ## 📬 Contacto
 
 Si quieres charlar sobre tecnología, desarrollo o alguna colaboración, siéntete libre de interactuar conmigo por aquí en GitHub o abrir un *issue* en cualquiera de mis repositorios públicos.
